@@ -9,4 +9,7 @@ This is a Deep learning model that is trained on a dataset containing facial ima
 6. Fear
 7. Neutrality
 
-
+HOW TO EXECUTE:
+1. Download the facial emotion recognition dataset from kaggle.
+2. Downoad the .py87
+ 

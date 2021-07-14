@@ -11,5 +11,6 @@ This is a Deep learning model that is trained on a dataset containing facial ima
 
 HOW TO EXECUTE:
 1. Download the facial emotion recognition dataset from kaggle.
-2. Downoad the .py87
+2. Downoad the .py file and change the file_path to the path of the directory that contains the dataset.
+3.Remove the mount path code if not mounting the dataset from the drive.
  
